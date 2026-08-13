@@ -1,0 +1,374 @@
+{
+  "items": [
+    {
+      "description": "Have a project or resource you'd like to add? Submit a pull request!",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:56:34Z",
+            "owner": "marimo-team",
+            "repo": "marimo",
+            "stars": 22300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Release Notes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:56:34Z",
+            "owner": "marimo-team",
+            "repo": "marimo",
+            "stars": 22300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "marimo learn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-30T18:47:34Z",
+            "owner": "marimo-team",
+            "repo": "learn",
+            "stars": 347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome marimo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-06T17:48:23Z",
+            "owner": "marimo-team",
+            "repo": "awesome-marimo",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VSCode Plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-28T19:56:12Z",
+            "owner": "marimo-team",
+            "repo": "vscode-marimo",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spotlights",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-25T07:15:15Z",
+            "owner": "marimo-team",
+            "repo": "spotlights",
+            "stars": 60
+          }
+        }
+      ],
+      "title": "Official Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "marimo-jupyter-extension",
+          "description": "Enables the JupyterLab launcher to launch marimo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T18:33:53Z",
+            "owner": "marimo-team",
+            "repo": "marimo-jupyter-extension",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "marimohub",
+          "description": "Self-host a collaborative marimo workspace.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:00:36Z",
+            "owner": "marimo-team",
+            "repo": "marimohub",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "marimo-operator",
+          "description": "Kubernetes operator for deploying and managing marimo notebooks with persistent storage and resource control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T22:40:04Z",
+            "owner": "marimo-team",
+            "repo": "marimo-operator",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Deployment"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wigglystuff",
+          "description": "Creative widgets for explorable explanations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T08:35:42Z",
+            "owner": "koaning",
+            "repo": "wigglystuff",
+            "stars": 391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quarto-marimo",
+          "description": "Use marimo and quarto together.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T18:36:17Z",
+            "owner": "marimo-team",
+            "repo": "quarto-marimo",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mkdocs-marimo",
+          "description": "A mkdocs plugin for reactive and interactive docs with marimo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T06:01:42Z",
+            "owner": "marimo-team",
+            "repo": "mkdocs-marimo",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mohtml",
+          "description": "DSL for HTML that targets marimo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-03T08:50:16Z",
+            "owner": "koaning",
+            "repo": "mohtml",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "modraw",
+          "description": "Widgets built on top of tldraw that allow you to draw.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-11T12:05:03Z",
+            "owner": "koaning",
+            "repo": "modraw",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mopaint",
+          "description": "Widget that feels like MSPaint that allows you to draw.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-24T13:31:45Z",
+            "owner": "koaning",
+            "repo": "mopaint",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "expd",
+          "description": "Run computational experiments using marimo notebooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-31T11:03:11Z",
+            "owner": "marimo-team",
+            "repo": "expd",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "motest",
+          "description": "Make it easier to use elaborate pytests in marimo notebooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-04T13:05:14Z",
+            "owner": "koaning",
+            "repo": "motest",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "marimo-scipy-utils",
+          "description": "Utility functions for creating interactive marimo components with SciPy distributions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-04T03:45:14Z",
+            "owner": "hbmartin",
+            "repo": "marimo-scipy-utils",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mowidget",
+          "description": "Custom marimo widgets, including a color picker, array viewer, and more.",
+          "children": []
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "marimo agents",
+          "description": "Using agents in marimo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:56:34Z",
+            "owner": "marimo-team",
+            "repo": "marimo",
+            "stars": 22300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puppy",
+          "description": "A Python project manager, with support for marimo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T18:39:59Z",
+            "owner": "liquidcarbon",
+            "repo": "puppy",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alhazen",
+          "description": "AI agents + toolkits for scientific knowledge, with dashboard visualizations in marimo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-17T19:41:29Z",
+            "owner": "chanzuckerberg",
+            "repo": "alhazen",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llmwiki-marimo",
+          "description": "A local-first implementation of Karpathy's LLM-Wiki pattern, with marimo apps as the entire UI (ingest PDFs into an interlinked wiki, browse it, chat with cited answers).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T15:42:11Z",
+            "owner": "Clod",
+            "repo": "llmwiki-marimo",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "marimo-pixi-starter-template",
+          "description": "A starter template for marimo notebooks using pixi for dependency and project management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-31T08:17:51Z",
+            "owner": "Hofer-Julian",
+            "repo": "marimo-pixi-starter-template",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Projects Using marimo"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Media"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:27:26.228Z",
+    "original_repository": "marimo-team/awesome-marimo",
+    "original_repository_sha": "3e8ac8a203fddabefcffeaf19a5861347aef1f07",
+    "enhanced_repository": "enhansome/enhansome-marimo",
+    "enhanced_repository_description": null,
+    "title": "Awesome marimo with stars"
+  }
+}
