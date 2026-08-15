@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T04:33:30Z",
+            "last_commit": "2026-08-15T00:03:58Z",
             "owner": "marimo-team",
             "repo": "marimo",
-            "stars": 22313
+            "stars": 22327
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T04:33:30Z",
+            "last_commit": "2026-08-15T00:03:58Z",
             "owner": "marimo-team",
             "repo": "marimo",
-            "stars": 22313
+            "stars": 22327
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-28T19:56:12Z",
             "owner": "marimo-team",
             "repo": "vscode-marimo",
-            "stars": 140
+            "stars": 142
           }
         },
         {
@@ -106,7 +106,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T22:32:10Z",
+            "last_commit": "2026-08-14T19:04:54Z",
             "owner": "marimo-team",
             "repo": "marimo-jupyter-extension",
             "stars": 90
@@ -120,10 +120,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T00:43:17Z",
+            "last_commit": "2026-08-14T16:04:05Z",
             "owner": "marimo-team",
             "repo": "marimohub",
-            "stars": 48
+            "stars": 49
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-08-12T08:35:42Z",
             "owner": "koaning",
             "repo": "wigglystuff",
-            "stars": 391
+            "stars": 392
           }
         },
         {
@@ -168,7 +168,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T00:39:49Z",
+            "last_commit": "2026-08-15T00:37:15Z",
             "owner": "marimo-team",
             "repo": "quarto-marimo",
             "stars": 192
@@ -292,10 +292,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T04:33:30Z",
+            "last_commit": "2026-08-15T00:03:58Z",
             "owner": "marimo-team",
             "repo": "marimo",
-            "stars": 22313
+            "stars": 22327
           }
         },
         {
@@ -364,7 +364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:17:05.869Z",
+    "last_updated": "2026-08-15T04:05:49.304Z",
     "original_repository": "marimo-team/awesome-marimo",
     "original_repository_sha": "3e8ac8a203fddabefcffeaf19a5861347aef1f07",
     "enhanced_repository": "enhansome/enhansome-marimo",
