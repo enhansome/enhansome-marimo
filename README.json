@@ -2,101 +2,109 @@
   "items": [
     {
       "description": "Have a project or resource you'd like to add? Submit a pull request!",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub Repo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 678526156,
+                "language": "Python",
+                "last_commit": "2026-08-19T08:54:18Z",
+                "owner": "marimo-team",
+                "repo": "marimo",
+                "stars": 22396
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Release Notes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 678526156,
+                "language": "Python",
+                "last_commit": "2026-08-19T08:54:18Z",
+                "owner": "marimo-team",
+                "repo": "marimo",
+                "stars": 22396
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "marimo learn",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 917278000,
+                "language": "Python",
+                "last_commit": "2026-04-30T18:47:34Z",
+                "owner": "marimo-team",
+                "repo": "learn",
+                "stars": 347
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome marimo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 882531372,
+                "language": null,
+                "last_commit": "2026-08-06T17:48:23Z",
+                "owner": "marimo-team",
+                "repo": "awesome-marimo",
+                "stars": 222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VSCode Plugin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 690068184,
+                "language": "TypeScript",
+                "last_commit": "2026-07-28T19:56:12Z",
+                "owner": "marimo-team",
+                "repo": "vscode-marimo",
+                "stars": 143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spotlights",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 852452488,
+                "language": "Python",
+                "last_commit": "2025-07-25T07:15:15Z",
+                "owner": "marimo-team",
+                "repo": "spotlights",
+                "stars": 60
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Resources"
+        }
+      ],
       "title": "Resources"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GitHub Repo",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-19T00:22:02Z",
-            "owner": "marimo-team",
-            "repo": "marimo",
-            "stars": 22391
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Release Notes",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-19T00:22:02Z",
-            "owner": "marimo-team",
-            "repo": "marimo",
-            "stars": 22391
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "marimo learn",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-30T18:47:34Z",
-            "owner": "marimo-team",
-            "repo": "learn",
-            "stars": 347
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome marimo",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-06T17:48:23Z",
-            "owner": "marimo-team",
-            "repo": "awesome-marimo",
-            "stars": 222
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VSCode Plugin",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-28T19:56:12Z",
-            "owner": "marimo-team",
-            "repo": "vscode-marimo",
-            "stars": 143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Spotlights",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-25T07:15:15Z",
-            "owner": "marimo-team",
-            "repo": "spotlights",
-            "stars": 60
-          }
-        }
-      ],
-      "title": "Official Resources"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -105,6 +113,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1118375073,
             "language": "Python",
             "last_commit": "2026-08-18T18:37:07Z",
             "owner": "marimo-team",
@@ -119,11 +128,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1272704435,
             "language": "TypeScript",
             "last_commit": "2026-08-18T20:28:23Z",
             "owner": "marimo-team",
             "repo": "marimohub",
-            "stars": 49
+            "stars": 50
           }
         },
         {
@@ -133,6 +143,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1110765096,
             "language": "Go",
             "last_commit": "2026-08-17T23:07:56Z",
             "owner": "marimo-team",
@@ -144,7 +155,7 @@
       "title": "Deployment"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -153,6 +164,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 802979897,
             "language": "JavaScript",
             "last_commit": "2026-08-18T13:49:31Z",
             "owner": "koaning",
@@ -167,6 +179,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 786179056,
             "language": "Python",
             "last_commit": "2026-08-18T16:29:53Z",
             "owner": "marimo-team",
@@ -181,6 +194,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 858888709,
             "language": "Python",
             "last_commit": "2026-08-01T06:01:42Z",
             "owner": "marimo-team",
@@ -195,6 +209,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 889192760,
             "language": "Python",
             "last_commit": "2025-07-03T08:50:16Z",
             "owner": "koaning",
@@ -209,6 +224,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 955819720,
             "language": "Python",
             "last_commit": "2025-04-11T12:05:03Z",
             "owner": "koaning",
@@ -223,6 +239,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 957817795,
             "language": "Python",
             "last_commit": "2025-10-24T13:31:45Z",
             "owner": "koaning",
@@ -237,6 +254,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 874580462,
             "language": "Python",
             "last_commit": "2026-03-31T11:03:11Z",
             "owner": "marimo-team",
@@ -251,6 +269,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 911995575,
             "language": "Python",
             "last_commit": "2025-01-04T13:05:14Z",
             "owner": "koaning",
@@ -265,24 +284,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1020888237,
             "language": "Python",
             "last_commit": "2026-07-04T03:45:14Z",
             "owner": "hbmartin",
             "repo": "marimo-scipy-utils",
             "stars": 2
           }
-        },
-        {
-          "node_type": "item",
-          "title": "mowidget",
-          "description": "Custom marimo widgets, including a color picker, array viewer, and more.",
-          "children": []
         }
       ],
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -291,11 +305,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 678526156,
             "language": "Python",
-            "last_commit": "2026-08-19T00:22:02Z",
+            "last_commit": "2026-08-19T08:54:18Z",
             "owner": "marimo-team",
             "repo": "marimo",
-            "stars": 22391
+            "stars": 22396
           }
         },
         {
@@ -305,6 +320,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 779380371,
             "language": "Python",
             "last_commit": "2026-07-27T18:39:59Z",
             "owner": "liquidcarbon",
@@ -319,6 +335,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 674828174,
             "language": "Jupyter Notebook",
             "last_commit": "2026-07-17T19:41:29Z",
             "owner": "chanzuckerberg",
@@ -333,6 +350,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1249662979,
             "language": "Python",
             "last_commit": "2026-08-13T23:32:50Z",
             "owner": "Clod",
@@ -347,6 +365,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 925099073,
             "language": "Python",
             "last_commit": "2025-01-31T08:17:51Z",
             "owner": "Hofer-Julian",
@@ -356,16 +375,12 @@
         }
       ],
       "title": "Projects Using marimo"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Media"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:10:13.758Z",
+    "last_updated": "2026-08-19T12:40:33.625Z",
     "original_repository": "marimo-team/awesome-marimo",
+    "original_repository_id": 882531372,
     "original_repository_sha": "3e8ac8a203fddabefcffeaf19a5861347aef1f07",
     "enhanced_repository": "enhansome/enhansome-marimo",
     "enhanced_repository_description": null,
