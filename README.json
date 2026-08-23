@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 678526156,
                 "language": "Python",
-                "last_commit": "2026-08-21T21:51:55Z",
+                "last_commit": "2026-08-23T02:54:07Z",
                 "owner": "marimo-team",
                 "repo": "marimo",
-                "stars": 22425
+                "stars": 22445
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 678526156,
                 "language": "Python",
-                "last_commit": "2026-08-21T21:51:55Z",
+                "last_commit": "2026-08-23T02:54:07Z",
                 "owner": "marimo-team",
                 "repo": "marimo",
-                "stars": 22425
+                "stars": 22445
               }
             },
             {
@@ -166,7 +166,7 @@
             "archived": false,
             "id": 802979897,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T09:40:44Z",
+            "last_commit": "2026-08-22T13:22:26Z",
             "owner": "koaning",
             "repo": "wigglystuff",
             "stars": 398
@@ -184,7 +184,7 @@
             "last_commit": "2026-08-18T16:29:53Z",
             "owner": "marimo-team",
             "repo": "quarto-marimo",
-            "stars": 193
+            "stars": 194
           }
         },
         {
@@ -307,10 +307,10 @@
             "archived": false,
             "id": 678526156,
             "language": "Python",
-            "last_commit": "2026-08-21T21:51:55Z",
+            "last_commit": "2026-08-23T02:54:07Z",
             "owner": "marimo-team",
             "repo": "marimo",
-            "stars": 22425
+            "stars": 22445
           }
         },
         {
@@ -378,7 +378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T04:08:21.078Z",
+    "last_updated": "2026-08-23T04:11:13.074Z",
     "original_repository": "marimo-team/awesome-marimo",
     "original_repository_id": 882531372,
     "original_repository_sha": "3e8ac8a203fddabefcffeaf19a5861347aef1f07",
