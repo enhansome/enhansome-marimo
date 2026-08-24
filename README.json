@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 678526156,
                 "language": "Python",
-                "last_commit": "2026-08-24T01:46:03Z",
+                "last_commit": "2026-08-24T10:23:59Z",
                 "owner": "marimo-team",
                 "repo": "marimo",
-                "stars": 22466
+                "stars": 22473
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 678526156,
                 "language": "Python",
-                "last_commit": "2026-08-24T01:46:03Z",
+                "last_commit": "2026-08-24T10:23:59Z",
                 "owner": "marimo-team",
                 "repo": "marimo",
-                "stars": 22466
+                "stars": 22473
               }
             },
             {
@@ -99,6 +99,28 @@
           "description": null,
           "node_type": "group",
           "title": "Official Resources"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "marimo-tutorials",
+              "description": "A collection of community-driven tutorials spanning multiple disciplines.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 806023743,
+                "language": "Python",
+                "last_commit": "2025-03-09T15:42:42Z",
+                "owner": "Haleshot",
+                "repo": "marimo-tutorials",
+                "stars": 59
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials"
         }
       ],
       "title": "Resources"
@@ -166,7 +188,7 @@
             "archived": false,
             "id": 802979897,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T13:22:26Z",
+            "last_commit": "2026-08-24T12:27:21Z",
             "owner": "koaning",
             "repo": "wigglystuff",
             "stars": 398
@@ -307,10 +329,10 @@
             "archived": false,
             "id": 678526156,
             "language": "Python",
-            "last_commit": "2026-08-24T01:46:03Z",
+            "last_commit": "2026-08-24T10:23:59Z",
             "owner": "marimo-team",
             "repo": "marimo",
-            "stars": 22466
+            "stars": 22473
           }
         },
         {
@@ -378,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:23:52.376Z",
+    "last_updated": "2026-08-24T14:34:49.877Z",
     "original_repository": "marimo-team/awesome-marimo",
     "original_repository_id": 882531372,
     "original_repository_sha": "3e8ac8a203fddabefcffeaf19a5861347aef1f07",
