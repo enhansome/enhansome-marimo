@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 678526156,
                 "language": "Python",
-                "last_commit": "2026-08-25T04:10:27Z",
+                "last_commit": "2026-08-25T05:25:21Z",
                 "owner": "marimo-team",
                 "repo": "marimo",
                 "stars": 22485
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 678526156,
                 "language": "Python",
-                "last_commit": "2026-08-25T04:10:27Z",
+                "last_commit": "2026-08-25T05:25:21Z",
                 "owner": "marimo-team",
                 "repo": "marimo",
                 "stars": 22485
@@ -329,7 +329,7 @@
             "archived": false,
             "id": 678526156,
             "language": "Python",
-            "last_commit": "2026-08-25T04:10:27Z",
+            "last_commit": "2026-08-25T05:25:21Z",
             "owner": "marimo-team",
             "repo": "marimo",
             "stars": 22485
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:11:02.288Z",
+    "last_updated": "2026-08-25T06:25:03.374Z",
     "original_repository": "marimo-team/awesome-marimo",
     "original_repository_id": 882531372,
     "original_repository_sha": "3e8ac8a203fddabefcffeaf19a5861347aef1f07",
