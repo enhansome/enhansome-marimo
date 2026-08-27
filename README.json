@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 678526156,
                 "language": "Python",
-                "last_commit": "2026-08-27T04:39:03Z",
+                "last_commit": "2026-08-27T14:32:58Z",
                 "owner": "marimo-team",
                 "repo": "marimo",
-                "stars": 22509
+                "stars": 22510
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 678526156,
                 "language": "Python",
-                "last_commit": "2026-08-27T04:39:03Z",
+                "last_commit": "2026-08-27T14:32:58Z",
                 "owner": "marimo-team",
                 "repo": "marimo",
-                "stars": 22509
+                "stars": 22510
               }
             },
             {
@@ -152,7 +152,7 @@
             "archived": false,
             "id": 1272704435,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T00:07:52Z",
+            "last_commit": "2026-08-27T14:22:23Z",
             "owner": "marimo-team",
             "repo": "marimohub",
             "stars": 55
@@ -188,7 +188,7 @@
             "archived": false,
             "id": 802979897,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T12:27:21Z",
+            "last_commit": "2026-08-27T12:47:24Z",
             "owner": "koaning",
             "repo": "wigglystuff",
             "stars": 399
@@ -329,10 +329,10 @@
             "archived": false,
             "id": 678526156,
             "language": "Python",
-            "last_commit": "2026-08-27T04:39:03Z",
+            "last_commit": "2026-08-27T14:32:58Z",
             "owner": "marimo-team",
             "repo": "marimo",
-            "stars": 22509
+            "stars": 22510
           }
         },
         {
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:50:27.537Z",
+    "last_updated": "2026-08-27T14:33:14.151Z",
     "original_repository_info": {
       "archived": false,
       "id": 882531372,
