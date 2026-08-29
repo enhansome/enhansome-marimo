@@ -12,12 +12,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+                "homepage": "https://marimo.io",
                 "id": 678526156,
                 "language": "Python",
-                "last_commit": "2026-08-28T15:10:36Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:02:17Z",
+                "open_issues": 600,
                 "owner": "marimo-team",
                 "repo": "marimo",
-                "stars": 22526
+                "stars": 22533,
+                "topics": [
+                  "artificial-intelligence",
+                  "dag",
+                  "data-science",
+                  "data-visualization",
+                  "dataflow",
+                  "developer-tools",
+                  "machine-learning",
+                  "notebooks",
+                  "pipeline",
+                  "python",
+                  "reactive",
+                  "sql",
+                  "web-app"
+                ]
               },
               "first_seen": "2026-08-28T15:37:12.082Z"
             },
@@ -28,12 +47,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+                "homepage": "https://marimo.io",
                 "id": 678526156,
                 "language": "Python",
-                "last_commit": "2026-08-28T15:10:36Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:02:17Z",
+                "open_issues": 600,
                 "owner": "marimo-team",
                 "repo": "marimo",
-                "stars": 22526
+                "stars": 22533,
+                "topics": [
+                  "artificial-intelligence",
+                  "dag",
+                  "data-science",
+                  "data-visualization",
+                  "dataflow",
+                  "developer-tools",
+                  "machine-learning",
+                  "notebooks",
+                  "pipeline",
+                  "python",
+                  "reactive",
+                  "sql",
+                  "web-app"
+                ]
               },
               "first_seen": "2026-08-28T15:37:12.082Z"
             },
@@ -44,12 +82,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📚 A curated collection of marimo notebooks for education.",
+                "homepage": "https://marimo-team.github.io/learn/",
                 "id": 917278000,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-30T18:47:34Z",
+                "open_issues": 34,
                 "owner": "marimo-team",
                 "repo": "learn",
-                "stars": 349
+                "stars": 349,
+                "topics": [
+                  "artificial-intelligence",
+                  "data-analysis",
+                  "data-science",
+                  "data-visualization",
+                  "education",
+                  "learning",
+                  "machine-learning",
+                  "notebooks",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T15:37:12.082Z"
             },
@@ -60,12 +113,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡️ A curated list of awesome things related to marimo",
+                "homepage": null,
                 "id": 882531372,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-06T17:48:23Z",
+                "open_issues": 3,
                 "owner": "marimo-team",
                 "repo": "awesome-marimo",
-                "stars": 224
+                "stars": 224,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "marimo"
+                ]
               },
               "first_seen": "2026-08-28T15:37:12.082Z"
             },
@@ -76,12 +138,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "marimo vscode extension",
+                "homepage": "https://marketplace.visualstudio.com/items?itemName=marimo-team.vscode-marimo",
                 "id": 690068184,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-28T19:56:12Z",
+                "open_issues": 0,
                 "owner": "marimo-team",
                 "repo": "vscode-marimo",
-                "stars": 143
+                "stars": 143,
+                "topics": [
+                  "marimo",
+                  "notebook",
+                  "vscode-extension"
+                ]
               },
               "first_seen": "2026-08-28T15:37:12.082Z"
             },
@@ -92,12 +163,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "We feature a project or marimo notebook from the community every Thursday!",
+                "homepage": null,
                 "id": 852452488,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-25T07:15:15Z",
+                "open_issues": 3,
                 "owner": "marimo-team",
                 "repo": "spotlights",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:37:12.082Z"
             }
@@ -115,12 +191,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of marimo tutorials which encompass notebook/app examples in varying domains - CS/AI/ML",
+                "homepage": "https://marimo.io/c/@haleshot/marimo-tutorials",
                 "id": 806023743,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-09T15:42:42Z",
+                "open_issues": 5,
                 "owner": "Haleshot",
                 "repo": "marimo-tutorials",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "artificial-intelligence",
+                  "computer-vision",
+                  "data-science",
+                  "image-processing",
+                  "jax",
+                  "llm",
+                  "machine-learning",
+                  "marimo",
+                  "marimo-notebook",
+                  "pytorch",
+                  "recommender-system",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T15:37:12.082Z"
             }
@@ -142,12 +236,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Seamlessly integrate marimo reactive notebooks into JupyterLab and JupyterHub",
+            "homepage": "https://marimo-team.github.io/marimo-jupyter-extension/",
             "id": 1118375073,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T18:53:46Z",
+            "open_issues": 14,
             "owner": "marimo-team",
             "repo": "marimo-jupyter-extension",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "jupyterhub",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "juypter-notebook",
+              "marimo",
+              "marimo-notebook",
+              "notebook",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T15:37:12.082Z"
         },
@@ -158,12 +266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hostable marimo notebooks",
+            "homepage": "https://marimohub.docs.marimo.io/",
             "id": 1272704435,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T15:18:05Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T20:03:33Z",
+            "open_issues": 11,
             "owner": "marimo-team",
             "repo": "marimohub",
-            "stars": 58
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:37:12.082Z"
         },
@@ -174,12 +287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "k8s operator and plugin for marimo deployment",
+            "homepage": null,
             "id": 1110765096,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T22:36:28Z",
+            "open_issues": 6,
             "owner": "marimo-team",
             "repo": "marimo-operator",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:37:12.082Z"
         }
@@ -196,12 +314,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of creative AnyWidgets for Python notebook environments ",
+            "homepage": "https://koaning.github.io/wigglystuff/",
             "id": 802979897,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T12:47:24Z",
+            "open_issues": 8,
             "owner": "koaning",
             "repo": "wigglystuff",
-            "stars": 402
+            "stars": 406,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:37:12.082Z"
         },
@@ -212,12 +335,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "marimo extension for Quarto ⚡ run reactive code inside Quarto",
+            "homepage": "https://marimo-team.github.io/quarto-marimo/",
             "id": 786179056,
             "language": "Python",
-            "last_commit": "2026-08-28T14:36:40Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T19:48:17Z",
+            "open_issues": 6,
             "owner": "marimo-team",
             "repo": "quarto-marimo",
-            "stars": 195
+            "stars": 195,
+            "topics": [
+              "quarto",
+              "quarto-extension"
+            ]
           },
           "first_seen": "2026-08-28T15:37:12.082Z"
         },
@@ -228,12 +359,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mkdocs plugin for reactive and interactive docs with marimo",
+            "homepage": "https://marimo-team.github.io/mkdocs-marimo/",
             "id": 858888709,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-01T06:01:42Z",
+            "open_issues": 18,
             "owner": "marimo-team",
             "repo": "mkdocs-marimo",
-            "stars": 113
+            "stars": 113,
+            "topics": [
+              "marimo",
+              "mkdocs",
+              "mkdocs-plugin"
+            ]
           },
           "first_seen": "2026-08-28T15:37:12.082Z"
         },
@@ -244,12 +384,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DSL for HTML that targets marimo and more!",
+            "homepage": "https://koaning.github.io/mohtml/",
             "id": 889192760,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-03T08:50:16Z",
+            "open_issues": 2,
             "owner": "koaning",
             "repo": "mohtml",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:37:12.082Z"
         },
@@ -260,12 +405,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Drawing utils from tldraw for marimo",
+            "homepage": "https://koaning.github.io/modraw/",
             "id": 955819720,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-04-11T12:05:03Z",
+            "open_issues": 2,
             "owner": "koaning",
             "repo": "modraw",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:37:12.082Z"
         },
@@ -276,12 +426,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MSPaint for marimo and other Python notebooks",
+            "homepage": "https://koaning.github.io/mopaint/",
             "id": 957817795,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-24T13:31:45Z",
+            "open_issues": 2,
             "owner": "koaning",
             "repo": "mopaint",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:37:12.082Z"
         },
@@ -292,12 +447,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run computational experiments using marimo notebooks",
+            "homepage": null,
             "id": 874580462,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-31T11:03:11Z",
+            "open_issues": 1,
             "owner": "marimo-team",
             "repo": "expd",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:37:12.082Z"
         },
@@ -308,12 +468,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small cli that allows for more elaborate testing inside Marimo",
+            "homepage": null,
             "id": 911995575,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-04T13:05:14Z",
+            "open_issues": 1,
             "owner": "koaning",
             "repo": "motest",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:37:12.082Z"
         },
@@ -324,12 +489,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utility functions for creating interactive marimo components with scipy distributions.",
+            "homepage": "https://molab.marimo.io/notebooks/nb_w4q3DSbwUab5ta67b6msJp",
             "id": 1020888237,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-04T03:45:14Z",
+            "open_issues": 0,
             "owner": "hbmartin",
             "repo": "marimo-scipy-utils",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "marimo",
+              "marimo-notebook",
+              "notebook",
+              "scipy",
+              "scipy-stats"
+            ]
           },
           "first_seen": "2026-08-28T15:37:12.082Z"
         }
@@ -346,12 +522,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+            "homepage": "https://marimo.io",
             "id": 678526156,
             "language": "Python",
-            "last_commit": "2026-08-28T15:10:36Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:02:17Z",
+            "open_issues": 600,
             "owner": "marimo-team",
             "repo": "marimo",
-            "stars": 22526
+            "stars": 22533,
+            "topics": [
+              "artificial-intelligence",
+              "dag",
+              "data-science",
+              "data-visualization",
+              "dataflow",
+              "developer-tools",
+              "machine-learning",
+              "notebooks",
+              "pipeline",
+              "python",
+              "reactive",
+              "sql",
+              "web-app"
+            ]
           },
           "first_seen": "2026-08-28T15:37:12.082Z"
         },
@@ -362,12 +557,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your new best friend.  Puppy is the easiest way to get started with modern python on any platform, install packages in virtual environments, and contribute to external projects.",
+            "homepage": null,
             "id": 779380371,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-27T18:39:59Z",
+            "open_issues": 1,
             "owner": "liquidcarbon",
             "repo": "puppy",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "notebooks",
+              "pixi",
+              "python",
+              "uv",
+              "virtual-environment-tools"
+            ]
           },
           "first_seen": "2026-08-28T15:37:12.082Z"
         },
@@ -378,12 +584,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI agents + toolkits for scientific knowledge",
+            "homepage": "https://chanzuckerberg.github.io/alhazen/",
             "id": 674828174,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-07-17T19:41:29Z",
+            "open_issues": 5,
             "owner": "chanzuckerberg",
             "repo": "alhazen",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "landscape-analysis",
+              "large-language-models",
+              "scientific-knowledge-engineering"
+            ]
           },
           "first_seen": "2026-08-28T15:37:12.082Z"
         },
@@ -394,12 +609,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local-first LLM wiki — ingests your documents into a curated, citation-backed knowledge base you can read and chat with. Marimo + SQLite/FTS5, any OpenAI-compatible model, no cloud required.",
+            "homepage": null,
             "id": 1249662979,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-13T23:32:50Z",
+            "open_issues": 1,
             "owner": "Clod",
             "repo": "llmwiki-marimo",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "fts5",
+              "knowledge-base",
+              "llm",
+              "local-first",
+              "marimo",
+              "pydantic-ai",
+              "python",
+              "rag",
+              "sqlite",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-28T15:37:12.082Z"
         },
@@ -410,12 +641,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "marimo + pixi starter template",
+            "homepage": null,
             "id": 925099073,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-31T08:17:51Z",
+            "open_issues": 0,
             "owner": "Hofer-Julian",
             "repo": "marimo-pixi-starter-template",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:37:12.082Z"
         }
@@ -424,15 +660,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:37:12.082Z",
+    "last_updated": "2026-08-29T04:50:16.053Z",
     "original_repository_info": {
       "archived": false,
+      "description": "⚡️ A curated list of awesome things related to marimo",
+      "homepage": null,
       "id": 882531372,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-06T17:48:23Z",
+      "open_issues": 3,
       "owner": "marimo-team",
       "repo": "awesome-marimo",
-      "stars": 224
+      "stars": 224,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "marimo"
+      ]
     },
     "original_repository_sha": "3e8ac8a203fddabefcffeaf19a5861347aef1f07",
     "enhanced_repository": "enhansome/enhansome-marimo",
