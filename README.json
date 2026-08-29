@@ -21,7 +21,7 @@
                 "open_issues": 600,
                 "owner": "marimo-team",
                 "repo": "marimo",
-                "stars": 22533,
+                "stars": 22536,
                 "topics": [
                   "artificial-intelligence",
                   "dag",
@@ -56,7 +56,7 @@
                 "open_issues": 600,
                 "owner": "marimo-team",
                 "repo": "marimo",
-                "stars": 22533,
+                "stars": 22536,
                 "topics": [
                   "artificial-intelligence",
                   "dag",
@@ -122,7 +122,7 @@
                 "open_issues": 3,
                 "owner": "marimo-team",
                 "repo": "awesome-marimo",
-                "stars": 224,
+                "stars": 225,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -531,7 +531,7 @@
             "open_issues": 600,
             "owner": "marimo-team",
             "repo": "marimo",
-            "stars": 22533,
+            "stars": 22536,
             "topics": [
               "artificial-intelligence",
               "dag",
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:50:16.053Z",
+    "last_updated": "2026-08-29T10:23:26.115Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to marimo",
@@ -672,7 +672,7 @@
       "open_issues": 3,
       "owner": "marimo-team",
       "repo": "awesome-marimo",
-      "stars": 224,
+      "stars": 225,
       "topics": [
         "awesome",
         "awesome-list",
