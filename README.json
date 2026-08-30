@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-29T02:02:17Z",
-                "open_issues": 600,
+                "open_issues": 603,
                 "owner": "marimo-team",
                 "repo": "marimo",
-                "stars": 22536,
+                "stars": 22543,
                 "topics": [
                   "artificial-intelligence",
                   "dag",
@@ -53,10 +53,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-29T02:02:17Z",
-                "open_issues": 600,
+                "open_issues": 603,
                 "owner": "marimo-team",
                 "repo": "marimo",
-                "stars": 22536,
+                "stars": 22543,
                 "topics": [
                   "artificial-intelligence",
                   "dag",
@@ -91,7 +91,7 @@
                 "open_issues": 34,
                 "owner": "marimo-team",
                 "repo": "learn",
-                "stars": 349,
+                "stars": 350,
                 "topics": [
                   "artificial-intelligence",
                   "data-analysis",
@@ -323,7 +323,7 @@
             "open_issues": 8,
             "owner": "koaning",
             "repo": "wigglystuff",
-            "stars": 406,
+            "stars": 407,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:12.082Z"
@@ -528,10 +528,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-29T02:02:17Z",
-            "open_issues": 600,
+            "open_issues": 603,
             "owner": "marimo-team",
             "repo": "marimo",
-            "stars": 22536,
+            "stars": 22543,
             "topics": [
               "artificial-intelligence",
               "dag",
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T10:23:26.115Z",
+    "last_updated": "2026-08-30T09:26:40.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to marimo",
