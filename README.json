@@ -17,11 +17,11 @@
                 "id": 678526156,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T23:10:20Z",
-                "open_issues": 603,
+                "last_commit": "2026-09-20T05:48:46Z",
+                "open_issues": 601,
                 "owner": "marimo-team",
                 "repo": "marimo",
-                "stars": 22837,
+                "stars": 22849,
                 "topics": [
                   "artificial-intelligence",
                   "dag",
@@ -52,11 +52,11 @@
                 "id": 678526156,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T23:10:20Z",
-                "open_issues": 603,
+                "last_commit": "2026-09-20T05:48:46Z",
+                "open_issues": 601,
                 "owner": "marimo-team",
                 "repo": "marimo",
-                "stars": 22837,
+                "stars": 22849,
                 "topics": [
                   "artificial-intelligence",
                   "dag",
@@ -241,7 +241,7 @@
             "id": 1118375073,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T21:29:44Z",
+            "last_commit": "2026-09-19T09:24:44Z",
             "open_issues": 14,
             "owner": "marimo-team",
             "repo": "marimo-jupyter-extension",
@@ -272,7 +272,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-17T15:48:52Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "marimo-team",
             "repo": "marimohub",
             "stars": 64,
@@ -323,7 +323,7 @@
             "open_issues": 8,
             "owner": "koaning",
             "repo": "wigglystuff",
-            "stars": 428,
+            "stars": 429,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:12.082Z"
@@ -344,7 +344,7 @@
             "open_issues": 9,
             "owner": "marimo-team",
             "repo": "quarto-marimo",
-            "stars": 199,
+            "stars": 200,
             "topics": [
               "quarto",
               "quarto-extension"
@@ -527,11 +527,11 @@
             "id": 678526156,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T23:10:20Z",
-            "open_issues": 603,
+            "last_commit": "2026-09-20T05:48:46Z",
+            "open_issues": 601,
             "owner": "marimo-team",
             "repo": "marimo",
-            "stars": 22837,
+            "stars": 22849,
             "topics": [
               "artificial-intelligence",
               "dag",
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T08:15:37.021Z",
+    "last_updated": "2026-09-20T08:47:34.100Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to marimo",
