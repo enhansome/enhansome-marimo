@@ -35,14 +35,14 @@ A curated list of awesome things related to <a href='https://github.com/marimo-t
 
 ## Resources
 
-*Have a project or resource you'd like to add? Submit a [pull request](https://github.com/marimo-team/awesome-marimo/pulls) ⭐ 230 | 🐛 3 | 📅 2026-08-06!*
+*Have a project or resource you'd like to add? Submit a [pull request](https://github.com/marimo-team/awesome-marimo/pulls) ⭐ 231 | 🐛 3 | 📅 2026-08-06!*
 
 ### Official Resources
 
-* [GitHub Repo](https://github.com/marimo-team/marimo) ⭐ 22,887 | 🐛 596 | 🌐 Python | 📅 2026-09-24
-* [Release Notes](https://github.com/marimo-team/marimo/releases) ⭐ 22,887 | 🐛 596 | 🌐 Python | 📅 2026-09-24
-* [marimo learn](https://github.com/marimo-team/learn) ⭐ 353 | 🐛 34 | 🌐 Python | 📅 2026-04-30
-* [Awesome marimo](https://github.com/marimo-team/awesome-marimo) ⭐ 230 | 🐛 3 | 📅 2026-08-06
+* [GitHub Repo](https://github.com/marimo-team/marimo) ⭐ 22,896 | 🐛 600 | 🌐 Python | 📅 2026-09-25
+* [Release Notes](https://github.com/marimo-team/marimo/releases) ⭐ 22,896 | 🐛 600 | 🌐 Python | 📅 2026-09-25
+* [marimo learn](https://github.com/marimo-team/learn) ⭐ 354 | 🐛 34 | 🌐 Python | 📅 2026-04-30
+* [Awesome marimo](https://github.com/marimo-team/awesome-marimo) ⭐ 231 | 🐛 3 | 📅 2026-08-06
 * [VSCode Plugin](https://github.com/marimo-team/vscode-marimo) ⭐ 143 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-28
 * [Spotlights](https://github.com/marimo-team/spotlights/) ⭐ 60 | 🐛 3 | 🌐 Python | 📅 2025-07-25
 * [Documentation](https://docs.marimo.io/)
@@ -52,7 +52,7 @@ A curated list of awesome things related to <a href='https://github.com/marimo-t
 
 ### Tutorials
 
-* [marimo-tutorials](https://github.com/Haleshot/marimo-tutorials) ⭐ 59 | 🐛 5 | 🌐 Python | 📅 2025-03-09 - A collection of community-driven tutorials spanning multiple disciplines.
+* [marimo-tutorials](https://github.com/Haleshot/marimo-tutorials) ⭐ 60 | 🐛 5 | 🌐 Python | 📅 2025-03-09 - A collection of community-driven tutorials spanning multiple disciplines.
 * [Calmcode](https://calmcode.io/course/marimo/introduction) - A collection of video tutorials by [Vincent Warmerdam](https://x.com/fishnets88).
 * [marimo's intro tutorial](https://marimo.app/?slug=c7h6pz) - The first tutorial that comes packaged with marimo.
 
@@ -72,15 +72,15 @@ A curated list of awesome things related to <a href='https://github.com/marimo-t
 
 ## Deployment
 
-* [marimo-jupyter-extension](https://github.com/marimo-team/marimo-jupyter-extension) ⭐ 94 | 🐛 14 | 🌐 Python | 📅 2026-09-24 - Enables the JupyterLab launcher to launch marimo.
+* [marimo-jupyter-extension](https://github.com/marimo-team/marimo-jupyter-extension) ⭐ 94 | 🐛 14 | 🌐 Python | 📅 2026-09-25 - Enables the JupyterLab launcher to launch marimo.
 * [marimohub](https://github.com/marimo-team/marimohub) ⭐ 65 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-24 - Self-host a collaborative marimo workspace.
 * [marimo-operator](https://github.com/marimo-team/marimo-operator) ⭐ 26 | 🐛 6 | 🌐 Go | 📅 2026-09-21 - Kubernetes operator for deploying and managing marimo notebooks with persistent storage and resource control.
 
 ## Libraries
 
 * [wigglystuff](https://github.com/koaning/wigglystuff) ⭐ 430 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-07 - Creative widgets for explorable explanations.
-* [quarto-marimo](https://github.com/dmadisetti/quarto-marimo) ⭐ 201 | 🐛 9 | 🌐 Python | 📅 2026-09-21 - Use marimo and quarto together.
-* [mkdocs-marimo](https://github.com/marimo-team/mkdocs-marimo) ⭐ 113 | 🐛 18 | 🌐 Python | 📅 2026-09-01 - A mkdocs plugin for reactive and interactive docs with marimo.
+* [quarto-marimo](https://github.com/dmadisetti/quarto-marimo) ⭐ 201 | 🐛 9 | 🌐 Python | 📅 2026-09-25 - Use marimo and quarto together.
+* [mkdocs-marimo](https://github.com/marimo-team/mkdocs-marimo) ⭐ 113 | 🐛 19 | 🌐 Python | 📅 2026-09-01 - A mkdocs plugin for reactive and interactive docs with marimo.
 * [mohtml](https://github.com/koaning/mohtml) ⭐ 74 | 🐛 2 | 🌐 Python | 📅 2025-07-03 - DSL for HTML that targets marimo.
 * [modraw](https://github.com/koaning/modraw) ⭐ 28 | 🐛 2 | 🌐 Python | 📅 2025-04-11 - Widgets built on top of [tldraw](https://www.tldraw.com/) that allow you to draw.
 * [mopaint](https://github.com/koaning/mopaint) ⭐ 25 | 🐛 2 | 🌐 Python | 📅 2025-10-24 - Widget that feels like MSPaint that allows you to draw.
@@ -91,7 +91,7 @@ A curated list of awesome things related to <a href='https://github.com/marimo-t
 
 ## Projects Using marimo
 
-* [marimo agents](https://github.com/marimo-team/marimo/issues/3916) ⭐ 22,887 | 🐛 596 | 🌐 Python | 📅 2026-09-24 - Using agents in marimo.
+* [marimo agents](https://github.com/marimo-team/marimo/issues/3916) ⭐ 22,896 | 🐛 600 | 🌐 Python | 📅 2026-09-25 - Using agents in marimo.
 * [puppy](https://github.com/liquidcarbon/puppy) ⭐ 75 | 🐛 1 | 🌐 Python | 📅 2026-07-27 - A Python project manager, with support for marimo.
 * [alhazen](https://github.com/chanzuckerberg/alhazen) ⭐ 43 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-07-17 - AI agents + toolkits for scientific knowledge, with dashboard visualizations in marimo.
 * [llmwiki-marimo](https://github.com/Clod/llmwiki-marimo) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-09-17 - A local-first implementation of Karpathy's LLM-Wiki pattern, with marimo apps as the entire UI (ingest PDFs into an interlinked wiki, browse it, chat with cited answers).
@@ -132,4 +132,4 @@ A curated list of awesome things related to <a href='https://github.com/marimo-t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
