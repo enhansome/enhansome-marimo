@@ -39,9 +39,9 @@ A curated list of awesome things related to <a href='https://github.com/marimo-t
 
 ### Official Resources
 
-* [GitHub Repo](https://github.com/marimo-team/marimo) ⭐ 22,965 | 🐛 605 | 🌐 Python | 📅 2026-10-01
-* [Release Notes](https://github.com/marimo-team/marimo/releases) ⭐ 22,965 | 🐛 605 | 🌐 Python | 📅 2026-10-01
-* [marimo learn](https://github.com/marimo-team/learn) ⭐ 355 | 🐛 34 | 🌐 Python | 📅 2026-04-30
+* [GitHub Repo](https://github.com/marimo-team/marimo) ⭐ 22,988 | 🐛 613 | 🌐 Python | 📅 2026-10-02
+* [Release Notes](https://github.com/marimo-team/marimo/releases) ⭐ 22,988 | 🐛 613 | 🌐 Python | 📅 2026-10-02
+* [marimo learn](https://github.com/marimo-team/learn) ⭐ 357 | 🐛 34 | 🌐 Python | 📅 2026-04-30
 * [Awesome marimo](https://github.com/marimo-team/awesome-marimo) ⭐ 231 | 🐛 4 | 📅 2026-08-06
 * [VSCode Plugin](https://github.com/marimo-team/vscode-marimo) ⭐ 143 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-28
 * [Spotlights](https://github.com/marimo-team/spotlights/) ⭐ 60 | 🐛 3 | 🌐 Python | 📅 2025-07-25
@@ -72,14 +72,14 @@ A curated list of awesome things related to <a href='https://github.com/marimo-t
 
 ## Deployment
 
-* [marimo-jupyter-extension](https://github.com/marimo-team/marimo-jupyter-extension) ⭐ 94 | 🐛 13 | 🌐 Python | 📅 2026-10-01 - Enables the JupyterLab launcher to launch marimo.
-* [marimohub](https://github.com/marimo-team/marimohub) ⭐ 75 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-01 - Self-host a collaborative marimo workspace.
-* [marimo-operator](https://github.com/marimo-team/marimo-operator) ⭐ 26 | 🐛 7 | 🌐 Go | 📅 2026-09-28 - Kubernetes operator for deploying and managing marimo notebooks with persistent storage and resource control.
+* [marimo-jupyter-extension](https://github.com/marimo-team/marimo-jupyter-extension) ⭐ 95 | 🐛 13 | 🌐 Python | 📅 2026-10-01 - Enables the JupyterLab launcher to launch marimo.
+* [marimohub](https://github.com/marimo-team/marimohub) ⭐ 75 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-02 - Self-host a collaborative marimo workspace.
+* [marimo-operator](https://github.com/marimo-team/marimo-operator) ⭐ 26 | 🐛 9 | 🌐 Go | 📅 2026-09-28 - Kubernetes operator for deploying and managing marimo notebooks with persistent storage and resource control.
 
 ## Libraries
 
 * [wigglystuff](https://github.com/koaning/wigglystuff) ⭐ 434 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-07 - Creative widgets for explorable explanations.
-* [quarto-marimo](https://github.com/dmadisetti/quarto-marimo) ⭐ 203 | 🐛 9 | 🌐 Python | 📅 2026-09-28 - Use marimo and quarto together.
+* [quarto-marimo](https://github.com/dmadisetti/quarto-marimo) ⭐ 204 | 🐛 10 | 🌐 Python | 📅 2026-10-01 - Use marimo and quarto together.
 * [mkdocs-marimo](https://github.com/marimo-team/mkdocs-marimo) ⭐ 115 | 🐛 19 | 🌐 Python | 📅 2026-10-01 - A mkdocs plugin for reactive and interactive docs with marimo.
 * [mohtml](https://github.com/koaning/mohtml) ⭐ 74 | 🐛 2 | 🌐 Python | 📅 2025-07-03 - DSL for HTML that targets marimo.
 * [modraw](https://github.com/koaning/modraw) ⭐ 28 | 🐛 2 | 🌐 Python | 📅 2025-04-11 - Widgets built on top of [tldraw](https://www.tldraw.com/) that allow you to draw.
@@ -91,7 +91,7 @@ A curated list of awesome things related to <a href='https://github.com/marimo-t
 
 ## Projects Using marimo
 
-* [marimo agents](https://github.com/marimo-team/marimo/issues/3916) ⭐ 22,965 | 🐛 605 | 🌐 Python | 📅 2026-10-01 - Using agents in marimo.
+* [marimo agents](https://github.com/marimo-team/marimo/issues/3916) ⭐ 22,988 | 🐛 613 | 🌐 Python | 📅 2026-10-02 - Using agents in marimo.
 * [puppy](https://github.com/liquidcarbon/puppy) ⭐ 75 | 🐛 1 | 🌐 Python | 📅 2026-07-27 - A Python project manager, with support for marimo.
 * [alhazen](https://github.com/chanzuckerberg/alhazen) ⭐ 43 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-07-17 - AI agents + toolkits for scientific knowledge, with dashboard visualizations in marimo.
 * [llmwiki-marimo](https://github.com/Clod/llmwiki-marimo) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-09-29 - A local-first implementation of Karpathy's LLM-Wiki pattern, with marimo apps as the entire UI (ingest PDFs into an interlinked wiki, browse it, chat with cited answers).
@@ -132,4 +132,4 @@ A curated list of awesome things related to <a href='https://github.com/marimo-t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
