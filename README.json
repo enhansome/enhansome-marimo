@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "GitHub Repo",
-              "description": null,
+              "description": "marimo-team/marimo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -17,11 +17,11 @@
                 "id": 678526156,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T08:49:51Z",
-                "open_issues": 613,
+                "last_commit": "2026-10-03T03:02:48Z",
+                "open_issues": 611,
                 "owner": "marimo-team",
                 "repo": "marimo",
-                "stars": 22988,
+                "stars": 22994,
                 "topics": [
                   "artificial-intelligence",
                   "dag",
@@ -43,7 +43,7 @@
             {
               "node_type": "item",
               "title": "Release Notes",
-              "description": null,
+              "description": "marimo-team/marimo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -52,11 +52,11 @@
                 "id": 678526156,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T08:49:51Z",
-                "open_issues": 613,
+                "last_commit": "2026-10-03T03:02:48Z",
+                "open_issues": 611,
                 "owner": "marimo-team",
                 "repo": "marimo",
-                "stars": 22988,
+                "stars": 22994,
                 "topics": [
                   "artificial-intelligence",
                   "dag",
@@ -78,7 +78,7 @@
             {
               "node_type": "item",
               "title": "marimo learn",
-              "description": null,
+              "description": "marimo-team/learn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -108,33 +108,8 @@
             },
             {
               "node_type": "item",
-              "title": "Awesome marimo",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "⚡️ A curated list of awesome things related to marimo",
-                "homepage": null,
-                "id": 882531372,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2026-08-06T17:48:23Z",
-                "open_issues": 4,
-                "owner": "marimo-team",
-                "repo": "awesome-marimo",
-                "stars": 231,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "marimo"
-                ]
-              },
-              "first_seen": "2026-08-28T15:37:12.082Z"
-            },
-            {
-              "node_type": "item",
               "title": "VSCode Plugin",
-              "description": null,
+              "description": "marimo-team/vscode-marimo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -159,7 +134,7 @@
             {
               "node_type": "item",
               "title": "Spotlights",
-              "description": null,
+              "description": "marimo-team/spotlights",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -231,6 +206,27 @@
       "items": [
         {
           "node_type": "item",
+          "title": "marimohub",
+          "description": "Self-host a collaborative marimo workspace.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Self-hostable marimo notebooks",
+            "homepage": "https://marimohub.docs.marimo.io/",
+            "id": 1272704435,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-03T04:48:41Z",
+            "open_issues": 13,
+            "owner": "marimo-team",
+            "repo": "marimohub",
+            "stars": 97,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:37:12.082Z"
+        },
+        {
+          "node_type": "item",
           "title": "marimo-jupyter-extension",
           "description": "Enables the JupyterLab launcher to launch marimo.",
           "children": [],
@@ -241,8 +237,8 @@
             "id": 1118375073,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T22:39:23Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-02T23:03:39Z",
+            "open_issues": 14,
             "owner": "marimo-team",
             "repo": "marimo-jupyter-extension",
             "stars": 95,
@@ -256,27 +252,6 @@
               "notebook",
               "python"
             ]
-          },
-          "first_seen": "2026-08-28T15:37:12.082Z"
-        },
-        {
-          "node_type": "item",
-          "title": "marimohub",
-          "description": "Self-host a collaborative marimo workspace.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Self-hostable marimo notebooks",
-            "homepage": "https://marimohub.docs.marimo.io/",
-            "id": 1272704435,
-            "language": "TypeScript",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-02T04:56:52Z",
-            "open_issues": 7,
-            "owner": "marimo-team",
-            "repo": "marimohub",
-            "stars": 75,
-            "topics": []
           },
           "first_seen": "2026-08-28T15:37:12.082Z"
         },
@@ -527,11 +502,11 @@
             "id": 678526156,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T08:49:51Z",
-            "open_issues": 613,
+            "last_commit": "2026-10-03T03:02:48Z",
+            "open_issues": 611,
             "owner": "marimo-team",
             "repo": "marimo",
-            "stars": 22988,
+            "stars": 22994,
             "topics": [
               "artificial-intelligence",
               "dag",
@@ -660,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:00:51.405Z",
+    "last_updated": "2026-10-03T04:55:56.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to marimo",
