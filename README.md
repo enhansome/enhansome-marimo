@@ -39,8 +39,8 @@ A curated list of awesome things related to <a href='https://github.com/marimo-t
 
 ### Official Resources
 
-* [GitHub Repo](https://github.com/marimo-team/marimo) ⭐ 23,220 | 🐛 612 | 🌐 Python | 📅 2026-10-17
-* [Release Notes](https://github.com/marimo-team/marimo/releases) ⭐ 23,220 | 🐛 612 | 🌐 Python | 📅 2026-10-17
+* [GitHub Repo](https://github.com/marimo-team/marimo) ⭐ 23,228 | 🐛 613 | 🌐 Python | 📅 2026-10-17
+* [Release Notes](https://github.com/marimo-team/marimo/releases) ⭐ 23,228 | 🐛 613 | 🌐 Python | 📅 2026-10-17
 * [marimo learn](https://github.com/marimo-team/learn) ⭐ 358 | 🐛 34 | 🌐 Python | 📅 2026-04-30
 * [VSCode Plugin](https://github.com/marimo-team/vscode-marimo) ⚠️ Archived
 * [Spotlights](https://github.com/marimo-team/spotlights/) ⭐ 60 | 🐛 3 | 🌐 Python | 📅 2025-07-25
@@ -72,7 +72,7 @@ A curated list of awesome things related to <a href='https://github.com/marimo-t
 
 ## Deployment
 
-* [marimohub](https://github.com/marimo-team/marimohub) ⭐ 126 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-17 - Self-host a collaborative marimo workspace.
+* [marimohub](https://github.com/marimo-team/marimohub) ⭐ 126 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-17 - Self-host a collaborative marimo workspace.
 * [marimo-jupyter-extension](https://github.com/marimo-team/marimo-jupyter-extension) ⭐ 95 | 🐛 15 | 🌐 Python | 📅 2026-10-16 - Enables the JupyterLab launcher to launch marimo.
 * [marimo-operator](https://github.com/marimo-team/marimo-operator) ⭐ 27 | 🐛 9 | 🌐 Go | 📅 2026-10-12 - Kubernetes operator for deploying and managing marimo notebooks with persistent storage and resource control.
 
@@ -91,7 +91,7 @@ A curated list of awesome things related to <a href='https://github.com/marimo-t
 
 ## Projects Using marimo
 
-* [marimo agents](https://github.com/marimo-team/marimo/issues/3916) ⭐ 23,220 | 🐛 612 | 🌐 Python | 📅 2026-10-17 - Using agents in marimo.
+* [marimo agents](https://github.com/marimo-team/marimo/issues/3916) ⭐ 23,228 | 🐛 613 | 🌐 Python | 📅 2026-10-17 - Using agents in marimo.
 * [puppy](https://github.com/liquidcarbon/puppy) ⭐ 75 | 🐛 1 | 🌐 Python | 📅 2026-07-27 - A Python project manager, with support for marimo.
 * [alhazen](https://github.com/chanzuckerberg/alhazen) ⭐ 43 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-07-17 - AI agents + toolkits for scientific knowledge, with dashboard visualizations in marimo.
 * [llmwiki-marimo](https://github.com/Clod/llmwiki-marimo) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-10-15 - A local-first implementation of Karpathy's LLM-Wiki pattern, with marimo apps as the entire UI (ingest PDFs into an interlinked wiki, browse it, chat with cited answers).
@@ -132,4 +132,4 @@ A curated list of awesome things related to <a href='https://github.com/marimo-t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
