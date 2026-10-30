@@ -17,11 +17,11 @@
                 "id": 678526156,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T06:53:31Z",
-                "open_issues": 620,
+                "last_commit": "2026-10-30T07:10:46Z",
+                "open_issues": 623,
                 "owner": "marimo-team",
                 "repo": "marimo",
-                "stars": 23363,
+                "stars": 23371,
                 "topics": [
                   "artificial-intelligence",
                   "dag",
@@ -52,11 +52,11 @@
                 "id": 678526156,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T06:53:31Z",
-                "open_issues": 620,
+                "last_commit": "2026-10-30T07:10:46Z",
+                "open_issues": 623,
                 "owner": "marimo-team",
                 "repo": "marimo",
-                "stars": 23363,
+                "stars": 23371,
                 "topics": [
                   "artificial-intelligence",
                   "dag",
@@ -220,7 +220,7 @@
             "open_issues": 14,
             "owner": "marimo-team",
             "repo": "marimohub",
-            "stars": 141,
+            "stars": 142,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:12.082Z"
@@ -237,7 +237,7 @@
             "id": 1118375073,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T20:38:52Z",
+            "last_commit": "2026-10-30T01:10:25Z",
             "open_issues": 16,
             "owner": "marimo-team",
             "repo": "marimo-jupyter-extension",
@@ -298,7 +298,7 @@
             "open_issues": 9,
             "owner": "koaning",
             "repo": "wigglystuff",
-            "stars": 453,
+            "stars": 454,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:12.082Z"
@@ -502,11 +502,11 @@
             "id": 678526156,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T06:53:31Z",
-            "open_issues": 620,
+            "last_commit": "2026-10-30T07:10:46Z",
+            "open_issues": 623,
             "owner": "marimo-team",
             "repo": "marimo",
-            "stars": 23363,
+            "stars": 23371,
             "topics": [
               "artificial-intelligence",
               "dag",
@@ -589,7 +589,7 @@
             "id": 1249662979,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T17:18:17Z",
+            "last_commit": "2026-10-29T13:48:51Z",
             "open_issues": 0,
             "owner": "Clod",
             "repo": "llmwiki-marimo",
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T10:21:35.290Z",
+    "last_updated": "2026-10-30T10:23:54.624Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to marimo",
@@ -647,7 +647,7 @@
       "open_issues": 3,
       "owner": "marimo-team",
       "repo": "awesome-marimo",
-      "stars": 232,
+      "stars": 233,
       "topics": [
         "awesome",
         "awesome-list",
