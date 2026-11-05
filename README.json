@@ -17,11 +17,11 @@
                 "id": 678526156,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T04:35:43Z",
+                "last_commit": "2026-11-05T08:36:05Z",
                 "open_issues": 626,
                 "owner": "marimo-team",
                 "repo": "marimo",
-                "stars": 23419,
+                "stars": 23439,
                 "topics": [
                   "artificial-intelligence",
                   "dag",
@@ -52,11 +52,11 @@
                 "id": 678526156,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T04:35:43Z",
+                "last_commit": "2026-11-05T08:36:05Z",
                 "open_issues": 626,
                 "owner": "marimo-team",
                 "repo": "marimo",
-                "stars": 23419,
+                "stars": 23439,
                 "topics": [
                   "artificial-intelligence",
                   "dag",
@@ -216,11 +216,11 @@
             "id": 1272704435,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T06:40:04Z",
+            "last_commit": "2026-11-04T23:53:49Z",
             "open_issues": 12,
             "owner": "marimo-team",
             "repo": "marimohub",
-            "stars": 148,
+            "stars": 149,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:12.082Z"
@@ -502,11 +502,11 @@
             "id": 678526156,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T04:35:43Z",
+            "last_commit": "2026-11-05T08:36:05Z",
             "open_issues": 626,
             "owner": "marimo-team",
             "repo": "marimo",
-            "stars": 23419,
+            "stars": 23439,
             "topics": [
               "artificial-intelligence",
               "dag",
@@ -589,7 +589,7 @@
             "id": 1249662979,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T01:30:59Z",
+            "last_commit": "2026-11-05T01:47:25Z",
             "open_issues": 0,
             "owner": "Clod",
             "repo": "llmwiki-marimo",
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T11:28:31.210Z",
+    "last_updated": "2026-11-05T11:25:40.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to marimo",
